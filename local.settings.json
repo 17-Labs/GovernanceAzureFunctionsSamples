@@ -1,10 +1,9 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME_VERSION": "7.4",
     "FUNCTIONS_WORKER_RUNTIME": "powershell",
-    
     "TenantId": "your-tenant-id",
     "ClientId": "your-client-id",
     "ClientSecret": "your-client-secret"
